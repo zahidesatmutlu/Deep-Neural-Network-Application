@@ -4,6 +4,7 @@ Welcome to the second (required) programming exercise of Course 1, Week 4 of the
 <p align="center">
   <img src="https://i.hizliresim.com/1ucjp32.png" />
 </p>
+
 Instructions:
 
 - Do not use loops (for/while) in your code, unless the instructions explicitly ask you to do so.
